@@ -1,3 +1,4 @@
+#sudo chmod +x profilecombiner*.command 
 #chmod 700 first on mac
 
 set -x
